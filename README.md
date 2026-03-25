@@ -49,6 +49,6 @@ Built an end-to-end SQL project to transform raw data into meaningful business i
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Prajwal Patil
